@@ -7,27 +7,16 @@ header:
   og_image: "research/ecdf.png"
 ---
 
-My academic research falls into two main areas: understanding the influence of
-geography on actor behavior before, during, and after civil conflict, and
-developing new tools to improve the study of institutions (both formal and
-informal) in peace and conflict. One strand of research in this first area
-explores how the territories that ethnic groups inhabit shape rebel group
-formation and condition their relationship with the state. My interest in
-geography also informs projects on active conflicts including the targeting of
-UN peacekeepers by insurgent groups, civilian victimization after rebel
-territorial conquest, and communal violence in fragile settings.
+My main research interest lies in the field of the ecology and evolution of early vertebrates with a specific interest in evolutionary developmental biology. 
+My approach combines insights from fossils with genetics to gain a more holistic understanding about the evolution of early vertebrates.
+I have studied several groups of early jawless vertebrates, including conodonts, thelodonts and heterostracans; but also lampreys, one of the only recent jawless vertebrates. The methods I apply include:
+- <b>Geochemical methods</b> like EDX (Energy Dispersive X-Ray Spectroscopy) and LA-ICP-MS to reconstruct the ecology of early vertebrates from their hard tissues as well as to reconstruct climate and environment 
+- <b>Computational palaeobiological methods</b> like CFD (Computational Fluid Dynamics), FEA (Finite Element Analysis) and ROM (Range of Motion) to test hypotheses on the evolution of early vertebrates and their key features (especially teeth)
+- <b>Molecular genetics methods</b> like transcriptomics to add a developmental perspective to my fossil studies
 
-My other main research agenda uses advanced methods to develop new measures of
-institutions. One project uses Bayesian item response theory to measure the
-strength of peace agreements as a latent variable and free researchers from
-post-treatment bias caused by using the duration of agreements as a proxy for
-their strength. In others, I apply unsupervised learning techniques to over a
-billion observations of product-level international trade data to measure
-economic interdependence and illicit economic exchange.
 
-In a new avenue of research, I leverage social media data to explore
-participation in extremist movements across multiple contexts, gaining insight
-into the early stages of radicalization.
+
+---
 
 <nbsp>
 

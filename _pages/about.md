@@ -8,23 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a data scientist applying machine learning tools and causal
-inference techniques to remote sensing data. I am also an affiliated
-researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
-and a research collaborator with the 
-[Research on International Policy Implementation Lab](https://bridgingthegapproject.org/ripil).
+Welcome! I am a palaeobiologist applying computational methods, geochemistry and molecular biology to study the ecology and evolution of (early) jawless vertebrates.<br> 
+I earned my B.Sc. in Geology and my M.Sc. in Palaeobiology from the [Friedrich-Alexander University Erlangen-Nürnberg](https://www.gzn.nat.fau.eu/palaeontologie/) (Germany).<br> 
+Currently, I am pursuing a PhD at the [Palaeobiology Research Group, University of Bristol](https://www.bristol.ac.uk/earthsciences/research/palaeobiology/) (UK), where I work on a project on the evolutionary origin of teeth. <br> 
+My academic work has been [published](/publications) or is forthcoming in Proceedings of the Royal Society B and Journal of Vertebrate Paleontology, among other outlets. <br> 
+My [research](/research) explores the ecology and evolution of (early) jawless vertebrates using a broad variety of methods such as Computational Fluid Dynamics (CFD), Finite Element Analysis (FEA), Energy Dispersive X-Ray Spectroscopy (EDX) and transcriptomics.<br> 
+I am particularly interested in the field of evolutionary developmental biology combining insights from fossils and genetics to answer big questions about early vertebrate evolution.
 
-I earned my Ph.D in Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu) and my
-B.A. in Political Science from [Haverford College](https://www.haverford.edu).
-My academic work has been [published](publications) or is forthcoming in
-*International Studies Quarterly*, *Conflict Management and Peace Science*,
-*Political Science Research and Methods*, and *PS: Political Science & Politics*,
-among other outlets. This [research](research) explores the causes and
-consequences of political violence using a broad variety of methods such as
-latent variable models, geospatial analysis, and big data. While primarily
-focused on civil conflict, it also examines contentious political phenomena
-including terrorism and economic statecraft, and develops new measures of
-institutions in international relations. I have [teaching](teaching) experience
-in both quantitative methodology and international relations, and am a certified
-instructor with [The Carpentries](https://carpentries.org).
+I am currently looking for a postdoc position starting in autumn 2024. If you are interested in working with me, please get in touch, I am looking forward to hearing from you!
