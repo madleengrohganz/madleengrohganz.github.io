@@ -9,11 +9,11 @@ gallery:
     image_path: research/heterostracans.gif
     alt: "Reconstruction of Heterostraci (Philippe Janvier)"
     title: "Reconstruction of Heterostraci (Philippe Janvier)"
-  - url: research/heterostracan oral plate.mov
-    image_path: research/heterostracan oral plate.mov
+  - url: research/heterostracan oral plate.gif
+    image_path: research/heterostracan oral plate.gif
     alt: "Surface model of heterostracan oral plate (Grohganz et al. 2023)"
     title: "Surface model of heterostracan oral plate (Grohganz et al. 2023)"
-header: 
+header:     
   og_image: "research/CFD_copy.jpg"
 ---
 
