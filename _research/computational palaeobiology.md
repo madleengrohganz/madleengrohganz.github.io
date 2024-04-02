@@ -13,6 +13,15 @@ gallery:
     image_path: research/heterostracan oral plate.gif
     alt: "Surface model of heterostracan oral plate (Grohganz et al. 2023)"
     title: "Surface model of heterostracan oral plate (Grohganz et al. 2023)"
+gallery2:
+  - url: research/denticles.png
+    image_path: research/denticles.png
+    alt: "Denticles on the heterostracan oral plate hook (Grohganz et al. 2023)"
+    title: "Denticles on the heterostracan oral plate hook (Grohganz et al. 2023)"
+  - url: research/denticles CFD.png
+    image_path: research/denticles CFD.png
+    alt: "CFD analyses on heterostracan denticles (Grohganz et al. 2023)"
+    title: "CFD analyses on heterostracan denticles (Grohganz et al. 2023)"
 header:     
   og_image: "research/CFD_copy.jpg"
 ---
@@ -24,7 +33,8 @@ I apply computational palaeobiological methods to test hypotheses on early verte
 
 The feeding mode of heterostracans is highly contested with hypotheses ranging from suspension feeding to predation. In this project I investigated the role of the denticles on the heterostracan oral plates in feeding. The forward-facing orientation of these denticles has been hypothesised to be a specific adaption to suspension feeding. However, we were able to reject this hypothesis based on our CFD analyses of 2D denticle models. The denticles might instead have served to prevent material from lodging between the oral plates. 
 <!--Madleen Grohganz, Humberto Ferron, Zerina Johanson, Philip Donoghue. "Testing hypotheses of pteraspid heterostracan feeding using Computational Fluid Dynamics" *Journal of Vertebrate Paleontology*.-->
-<!--[Article](){: .btn--research} -->
+[Article](https://doi.org/10.1080/02724634.2023.2272974){: .btn--research} 
+{% include gallery2 %}
 
 ### Finite element and microstructural analyses of heterostracan oral plates
 
